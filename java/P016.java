@@ -1,8 +1,7 @@
-package from_11_to_20;
 
 import java.math.*;
 
-public class Problem_16 {
+public class P016 {
 	public static void main (String[] args){
 		int nysum=0;
 		int temp;

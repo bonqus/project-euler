@@ -1,6 +1,5 @@
-package from_41_to_50;
 
-public class Problem_47 {
+public class P047 {
 	
 	public static void main (String[] args) {
 		int k = 0;

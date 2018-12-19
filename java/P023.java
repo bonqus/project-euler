@@ -1,8 +1,7 @@
-package from_21_to_30;
 
 import java.util.ArrayList;
 
-public class Problem_23 {
+public class P023 {
 
 	public static ArrayList<Long> abundant = new ArrayList<Long>();
 	public static ArrayList<Long> perfect = new ArrayList<Long>();

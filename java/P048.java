@@ -1,6 +1,5 @@
-package from_41_to_50;
 
-public class Problem_48 {
+public class P048 {
 	public static void main (String[] args) {
 		long sum = 0;
 		for (long i = 1; i <= 1000; i++) {

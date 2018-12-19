@@ -1,6 +1,5 @@
-package from_31_to_40;
 
-public class Problem_31 {
+public class P031 {
 	public static void main (String[] args) {
 		System.out.println(posibilitys());
 	}

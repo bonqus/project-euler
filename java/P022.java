@@ -1,11 +1,10 @@
-package from_21_to_30;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Problem_22 {
+public class P022 {
 
 	static String[] names;
 	

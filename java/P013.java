@@ -102,10 +102,9 @@ Work out the first ten digits of the sum of the following one-hundred 50-digit n
 20849603980134001723930671666823555245252804609722
 53503534226472524250874054075591789781264330331690
  */
-package from_11_to_20;
 import java.io.*;
 import java.math.BigInteger;
-public class Problem_13 {
+public class P013 {
 	public static void main(String args[]){
 		String number[];
         number = new String[100];

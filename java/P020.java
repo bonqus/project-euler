@@ -1,9 +1,8 @@
-package from_11_to_20;
 
 import java.math.BigInteger;
 
 
-public class Problem_20 {
+public class P020 {
 	public static void main (String[] args){
 		BigInteger sum = BigInteger.valueOf(1);
 		BigInteger temp = BigInteger.valueOf(1);

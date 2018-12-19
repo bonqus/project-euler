@@ -1,8 +1,7 @@
-package from_21_to_30;
 
 import java.util.ArrayList;
 
-public class Problem_24 {
+public class P024 {
 	public static void main (String[] args) {
 		int k = 0;
 		int i = 3;

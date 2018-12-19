@@ -1,6 +1,5 @@
-package from_11_to_20;
 
-public class Problem_15 {
+public class P015 {
 	public static void main (String[] args){
 		int n = 20+1;
 		long grid[][] = new long [n][n];

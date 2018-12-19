@@ -1,8 +1,7 @@
-package from_21_to_30;
 
 import java.util.ArrayList;
 
-public class Problem_29 {
+public class P029 {
 	public static void main (String[] args) {
 		System.out.println(combo(2,100));
 	}

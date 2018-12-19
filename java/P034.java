@@ -1,6 +1,5 @@
-package from_31_to_40;
 
-public class Problem_34 {
+public class P034 {
 	public static void main (String[] args) {
 		int sum = 0;
 		for(int i = 3; i<1000000; i++){

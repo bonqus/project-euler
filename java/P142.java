@@ -1,6 +1,5 @@
-package random_problems;
 
-public class Problem_142 {
+public class P142 {
 	public static void main (String[] args) {
 		boolean found = false;
 		int x = 3;

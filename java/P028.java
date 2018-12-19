@@ -1,6 +1,5 @@
-package from_21_to_30;
 
-public class Problem_28 {
+public class P028 {
 	public static void main (String[] args) {
 		int size = 1001;
 		int [][] spiral = new int [size][size];

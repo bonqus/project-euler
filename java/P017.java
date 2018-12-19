@@ -1,6 +1,5 @@
-package from_11_to_20;
 
-public class Problem_17 {
+public class P017 {
 	
 	public static void main (String[] args) {
         long start = System.currentTimeMillis();

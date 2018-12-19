@@ -4,9 +4,8 @@ A palindromic number reads the same both ways. The largest palindrome made from 
 Find the largest palindrome made from the product of two 3-digit numbers.
 */
 
-package from_01_to_10;
 
-public class Problem_04 {
+public class P004 {
 	public static void main(String[] args){
 		int x;
 		int big=0;

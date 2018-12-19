@@ -1,6 +1,5 @@
-package from_11_to_20;
 
-public class Problem_14 {
+public class P014 {
 	public static void main (String[] args){
 		long i;
 		long count=0;

@@ -4,9 +4,8 @@
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 */
 
-package from_01_to_10;
 
-public class Problem_05 {
+public class P005 {
 	public static void main(String[] args){
 		boolean y=true;
 		int j=1;

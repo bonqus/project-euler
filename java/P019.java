@@ -1,6 +1,5 @@
-package from_11_to_20;
 
-public class Problem_19 {
+public class P019 {
 	private static int year = 1900;
 	private static int day = 1;
 	private static int month = 1;

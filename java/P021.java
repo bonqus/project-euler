@@ -1,6 +1,5 @@
-package from_21_to_30;
 
-public class Problem_21 {
+public class P021 {
 	
 	public static void main (String[] args){
 		int sum = 0;

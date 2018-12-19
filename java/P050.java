@@ -1,6 +1,5 @@
-package q_Duel;
 
-public class Problem_50 {
+public class P050 {
 	public static void main (String[] args){
 		int tal;
 		int y;

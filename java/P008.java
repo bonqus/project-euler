@@ -23,9 +23,8 @@ Find the greatest product of five consecutive digits in the 1000-digit number.
 71636269561882670428252483600823257530420752963450
 */
 
-package from_01_to_10;
 
-public class Problem_08 {
+public class P008 {
 	public static void main (String[] args){
 		int x1;
 		int x2;

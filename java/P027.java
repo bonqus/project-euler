@@ -1,6 +1,5 @@
-package from_21_to_30;
 
-public class Problem_27 {
+public class P027 {
 	
 	public static void main (String [] args) {
 		int n = 0;

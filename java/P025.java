@@ -1,8 +1,7 @@
-package from_21_to_30;
 
 import java.math.BigInteger;
 
-public class Problem_25 {
+public class P025 {
 	
 	public static BigInteger f = BigInteger.valueOf(1);
 	public static BigInteger f_buff_1 = BigInteger.valueOf(0);
